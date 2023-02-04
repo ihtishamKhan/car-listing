@@ -1,0 +1,37 @@
+.car-listing {
+    position: relative;
+    top: -34px;
+}
+
+.price-tag {
+    background: rgb(14, 128, 250);
+    color: white;
+    font-weight: 700;
+    display: inline-block;
+    position: relative;
+    top: -30px;
+    left: 0;
+
+    padding: 10px;
+}
+
+.vehicle-card:hover {
+    cursor: pointer;
+}
+
+.icons {
+    font-size: 28px !important;
+}
+
+.car-items {
+    margin-right: 28px !important;
+    display: inline-block !important;
+    font-weight: bold;
+}
+
+.auth-heading {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-align: center;
+}
